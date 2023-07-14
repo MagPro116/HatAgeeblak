@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" >هات اجيبلك</string>
+    <string name="guest">الدخول كزائر</string>
+    <string name="login" >تسجيل الدخول</string>
+    <string name="welcome_back">مرحباَ بعودتك مرة أخرى</string>
+    <string name="enter_mobile" >أدخل رقم هاتفك</string>
+    <string name="enter_pass" >أدخل كلمة المرور</string>
+    <string name="create_account" >ليس لديك حساب ؟</string>
+    <string name="signup">إنشاء حساب</string>
+    <string name="forgot_password" >هل نسيت كلمة المرور ؟</string>
+    <string name="register_header">إنشاء حساب</string>
+    <string name="home">الرئيسية</string>
+    <string name="name">الإسم</string>
+    <string name="user_name">إسم المستخدم</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="address">العنوان</string>
+    <string name="mobile">رقم الهاتف</string>
+    <string name="password">كلمة المرور</string>
+    <string name="create_password">إنشاء كلمة مرور جديدة</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="register_button">تسجيل الحساب</string>
+    <string name="recover">إستعادة</string>
+    <string name="recover_password">إستعادة كلمة المرور</string>
+    <string name="save">حفظ</string>
+    <string name="save_changes">حفظ التغييرات</string>
+    <string name="verify_code">كود التحقق</string>
+    <string name="code_has_sent">الستة أرقام المرسلة إلى بريدك الإلكتروني</string>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Hat Ageeblak</string>
+    <string name="login">Login</string>
+    <string name="guest">Login as a guest</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="enter_mobile">Enter your mobile number</string>
+    <string name="enter_pass">Enter your password</string>
+    <string name="create_account">Don\'t have an account ?</string>
+    <string name="signup">Signup</string>
+    <string name="forgot_password">Forgot your password ?</string>
+    <string name="register_header">Create new account</string>
+    <string name="home">Home</string>
+    <string name="name">Name</string>
+    <string name="user_name">Username</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="mobile">Mobile number</string>
+    <string name="password">Password</string>
+    <string name="create_password">Create your new password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register_button">Register your account</string>
+    <string name="recover">Recover</string>
+    <string name="recover_password">Recover your password</string>
+    <string name="save">Save</string>
+    <string name="save_changes">Save changes</string>
+    <string name="verify_code">Verification code</string>
+    <string name="code_has_sent">The 6-digit sent to your email</string>
+</resources>
